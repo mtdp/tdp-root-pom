@@ -52,7 +52,7 @@
 		<gson.version>2.2.4</gson.version>
 		<!-- 数据库连接池配置 -->
 		<c3p0.version>0.9.5.4</c3p0.version>
-		<mysql.version>5.1.22</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<weaver.version>1.7.2</weaver.version>
 		<httpclient.version>3.1</httpclient.version>
 		<baidu.ueditor.version>1.1.0</baidu.ueditor.version>
