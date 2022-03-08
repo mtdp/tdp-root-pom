@@ -68,7 +68,7 @@
 		<dom4j.version>1.6</dom4j.version>
 		<!-- jxls excel导出工具 -->
 		<apache.jxls.version>1.0</apache.jxls.version>
-		<apache.poi.version>3.9</apache.poi.version>
+		<apache.poi.version>5.2.1</apache.poi.version>
 		
 		<lombok.version>1.16.20</lombok.version>
 		
