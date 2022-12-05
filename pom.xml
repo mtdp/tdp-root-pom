@@ -56,7 +56,7 @@
 		<weaver.version>1.7.2</weaver.version>
 		<httpclient.version>3.1</httpclient.version>
 		<baidu.ueditor.version>1.1.0</baidu.ueditor.version>
-		<commons-net.version>1.4.1</commons-net.version>
+		<commons-net.version>3.9.0</commons-net.version>
 		<itext-asian.version>ex.2.2</itext-asian.version>
 		<itextpdf.version>5.5.1</itextpdf.version>
 		<email.version>1.4.5</email.version>
